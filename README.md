@@ -14,7 +14,7 @@
 <hr>
 :man_technologist: About Me :
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Seattle, WA, USA. <br>
-🧑‍🎓  I’m currently working on obtaining my Computer Science degree from WGU <br>
+🧑‍🎓  I’m currently working on obtaining my Computer Science degree<br>
 👨🏽‍💻 I’m currently learning full-stack web development <br>
 😎 I’m looking for junior software engineering jobs <br>
 💬 Ask me about: The projects I have on here! <br>
