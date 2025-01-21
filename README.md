@@ -9,7 +9,7 @@ In addition to my role, I hold the following AWS Certifications:
 - Solutions Architect Associate
 - Developer Associate
 - Cloud Practitioner
-- 
+
 :dart: My Career Goals:
 
 I am passionate about transitioning into Software Development Engineer (SDE) or SysDev/DevOps roles in the future. My experience with AWS services, combined with my coding skills, positions me well to contribute to automation, system design, and scalable solutions.
@@ -19,7 +19,7 @@ I am passionate about transitioning into Software Development Engineer (SDE) or 
 - Cloud Computing: Deep understanding of AWS services and solutions
 - Development Areas: Building full-stack applications, scripting, and infrastructure automation
 - Certifications: Multiple AWS certifications demonstrating my expertise in cloud architecture and development
-- 
+
 :mailbox: Contact Me:
 Email: tjkapil1998@gmail.com
 LinkedIn: linkedin.com/in/tj-kapil/
